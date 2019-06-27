@@ -6,9 +6,8 @@ import Main from "./pages/Main";
 
 const App = () => (
   <Fragment>
-    <Globalstyle>
-      <Main />
-    </Globalstyle>
+    <Globalstyle />
+    <Main />
   </Fragment>
 );
 
