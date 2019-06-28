@@ -2,7 +2,7 @@ import React, { Fragment } from "react";
 
 import Globalstyle from "./styles/Global";
 
-import Main from "./pages/Main";
+import Main from "./pages/main/index";
 
 const App = () => (
   <Fragment>
